@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour",
+      "description": "👋 Je suis Cyril Tournier, suivant une formation en Alternance à Ynov Bordeaux qui mène à l'obtention d'un Mastère Développement Web, je possède une base solide en Html / Css / Javascript / Php, ce qui me permet l'utilisation de Framework tel que Angular, React, Symfony ou Laravel.",
+      "section_name": {
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "YachtSolutions",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/ys/ys-1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Planning Sonis",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/sonis/sonis.jpg"
+        ],
+        "url": "https://sonis.fr",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "ProImageService",
+        "startDate": "2018",
+        "description": "",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://www.proimageservice.com/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "YachtSolutions",
+        "title": "FullStack Developer",
+        "years": "09.2020 - aujourd'hui",
+        "mainTech": [
+          "PHP 8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "SJ Solutions",
+        "title": "FullStack Developer",
+        "years": "09.2017 - 08.2020",
+        "mainTech": [
+          "PHP 7"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "Swagger",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
